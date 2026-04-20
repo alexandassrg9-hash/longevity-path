@@ -1,0 +1,1 @@
+print ("Day 0 - longevitiy path starts here")
